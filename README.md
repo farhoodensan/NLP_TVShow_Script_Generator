@@ -1,7 +1,5 @@
 # NLP Based TV Script Analysis and Narrative Prose Generation - <i>Phineas and Ferb</i>
 
-Data Science and the Arts - Spring 2020
-
 <b> Project Team Members: </b>
 - Farhood Ensan, fensan@ucsd.edu
 - Rebecca Hu, reh016@ucsd.edu
